@@ -1,8 +1,7 @@
 Spelling Corrector Project
 
 Overview
-This project aims to develop a spelling corrector using Python. It involves building a system that can automatically correct misspelled words in a given text. 
-The workflow includes loading the dataset, pre-processing the data, generating candidate words, defining the language model and channel model, and implementing the auto-correction functionality.
+This project aims to develop a spelling corrector using Python. It involves building a system that can automatically correct misspelled words in a given text. The workflow includes loading the dataset, pre-processing the data, generating candidate words, defining the language model and channel model, and implementing the auto-correction functionality
 
 Workflows
 Loading the Dataset: Read the dataset containing text data for building the spelling corrector.
